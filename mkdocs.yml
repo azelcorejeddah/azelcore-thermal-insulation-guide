@@ -1,0 +1,7 @@
+site_name: دليل العزل الحراري — عزل كور (AzelCore)
+site_description: دليل هندسي للعزل الحراري لزجاج الفلل والمباني في جدة من عزل كور (AzelCore)
+repo_url: https://github.com/azelcorejeddah/azelcore-thermal-insulation-guide
+nav:
+  - الدليل: index.md
+theme:
+  name: readthedocs
